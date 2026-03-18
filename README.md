@@ -13,6 +13,6 @@ JavaScript (ES6): Logic for audio playback, DOM manipulation for real-time searc
 Font Awesome: Integrated for high-quality professional icons.
 📸 Project Preview
 🔧 How to Run
-Clone the repository: git clone https://github.com/YourUsername/SonicX.git
+Clone the repository: git clone :-https://surajkyadav01.github.io/SonicX-/
 Open index.html in any modern web browser.
 Start listening!
